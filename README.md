@@ -1,9 +1,28 @@
-# job-portal
- Mern stack Woork job portal website using (Node.js, Espress.js, MongoDB, React.js) with stripe payment
+# Job Portal
 
-Users can register as sellers or buyers. After the payment is made via Strime, they can message the seller. The seller can add the job according to categories.
-Additionally, bcrypt was used for encrypt.
-If you have any problems, you can reach me via LinkedIn
+This project is a job portal developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack with stripe payment. The project allows job seekers and employers to interact on the platform.
+
+## Technologies
+
+- MongoDB: Database
+- Express.js: Web application framework
+- React.js: User interface development
+- Node.js: Server-side development
+- Redux: Used for state management
+- JWT: Used for authentication
+- CSS: Basic styling
+- Material-UI: UI component library
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Open the terminal in the project directory.
+2. Navigate to the `client` and `server` directories and run the following command in each:
+
+   ```bash
+   npm install
+
 
 Home Screen
 <img width="1263" alt="Ekran görüntüsü 2023-12-26 155128" src="https://github.com/aliakyildiz44/job-portal/assets/92430624/cc3c352d-7071-45cd-94db-1c7e0e9cabb1">
